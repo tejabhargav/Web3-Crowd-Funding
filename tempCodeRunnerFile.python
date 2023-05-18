@@ -1,0 +1,17 @@
+from moralis import evm_api
+
+api_key = "ALJdrdbFbxoHSqfC84YyWkNCiJ2TdbWec326g8XIDOdO6ESRZwzdLhoylOd8nxA6"
+
+body = [
+    {
+        "path": "moralis/logo.jpg",
+        "content": "iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAApgAAAKYB3X3"
+    }
+]
+
+result = evm_api.ipfs.upload_folder(
+    api_key=api_key,
+    data=body,
+)
+
+print(result)

@@ -1,0 +1,13 @@
+{
+  "contracts": {
+    "OpenZeppelin/openzeppelin-contracts@4.8.1/ERC1967Proxy": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "OpenZeppelin/openzeppelin-contracts@4.8.1/StorageSlot": "1ce946f6a4eaa185320328620ccf999b9e86db7c",
+    "ProxyAdmin": "262106402e7c2d939e76c0d0423252813eccc5bb",
+    "UpgradeableProxy": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "contract1": "fa4d827df873a160606318bac686e15aa25b79e5",
+    "contract2": "f1ad8f8711327c3638db7e1ac8eaddcaaac3635a",
+    "crowdFunding1": "b39b70ffb4ce771e9281e7f2a8c78d4e761679a0"
+  },
+  "tests": {},
+  "tx": {}
+}

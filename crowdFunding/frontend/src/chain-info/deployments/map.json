@@ -1,0 +1,16 @@
+{
+  "5": {
+    "ProxyAdmin": [
+      "0x12825b82E7c6992a0112A1fAe1012dA9a3Ac9F08"
+    ],
+    "UpgradeableProxy": [
+      "0x84042d77E6A9111Aa4a01FB6e278132771dF8231"
+    ],
+    "crowdFunding1": [
+      "0x610aaa2a8806dbf51ab35685C65944536578Bb0A"
+    ],
+    "crowdFunding2": [
+      "0x1b4A986CEF34f4BE0cA4903ED2918C1b5744C309"
+    ]
+  }
+}
